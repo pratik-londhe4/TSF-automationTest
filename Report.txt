@@ -1,0 +1,20 @@
+Opening https://www.thesparksfoundationsingapore.org
+Opened Sucessfully
+Checking for Title
+Title Matches
+Checking for logo...
+Logo is displayed
+Checking navigation bar
+Navigation bar is loaded Successfully
+Spell check
+spelling for About us tag is correct
+Opened Drop down from About Us
+Clicked on Executive Team
+Page Loaded
+Spelling correct for founding team
+Spelling for contact us option is correct
+Contact us page loaded 
+Checking for LinkedIn link button
+Linked in opened..
+Browser Closed
+Test Completed
